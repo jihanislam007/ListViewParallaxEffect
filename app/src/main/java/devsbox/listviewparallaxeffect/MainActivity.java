@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
     private View heroImageView;
 
     private View stickyViewSpacer;
-
     private int MAX_ROWS = 20;
 
     @Override
